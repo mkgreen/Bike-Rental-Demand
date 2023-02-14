@@ -1,5 +1,5 @@
-# Bike-Rental-Demand
-Linear Regression
+# Bike-Rental-Demand-using-Linear-Regression
+
 ### [Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
 
 [![seoul-bikes](https://user-images.githubusercontent.com/105948938/210696437-cb69d9ae-3f14-4792-a80c-0c6f938cac36.jpeg)](https://github.com/mkgreen/Bike-Rental-Demand/blob/main/Linear_Regression_Project_Seoul_Bike_Data.ipynb)
